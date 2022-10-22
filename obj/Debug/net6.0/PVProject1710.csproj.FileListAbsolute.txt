@@ -1,0 +1,15 @@
+D:\Programming & 3D Design\Visual Studio\2022 .NET 6.0\PVProject1710\bin\Debug\net6.0\PVProject1710.exe
+D:\Programming & 3D Design\Visual Studio\2022 .NET 6.0\PVProject1710\bin\Debug\net6.0\PVProject1710.deps.json
+D:\Programming & 3D Design\Visual Studio\2022 .NET 6.0\PVProject1710\bin\Debug\net6.0\PVProject1710.runtimeconfig.json
+D:\Programming & 3D Design\Visual Studio\2022 .NET 6.0\PVProject1710\bin\Debug\net6.0\PVProject1710.dll
+D:\Programming & 3D Design\Visual Studio\2022 .NET 6.0\PVProject1710\bin\Debug\net6.0\PVProject1710.pdb
+D:\Programming & 3D Design\Visual Studio\2022 .NET 6.0\PVProject1710\obj\Debug\net6.0\PVProject1710.csproj.AssemblyReference.cache
+D:\Programming & 3D Design\Visual Studio\2022 .NET 6.0\PVProject1710\obj\Debug\net6.0\PVProject1710.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming & 3D Design\Visual Studio\2022 .NET 6.0\PVProject1710\obj\Debug\net6.0\PVProject1710.AssemblyInfoInputs.cache
+D:\Programming & 3D Design\Visual Studio\2022 .NET 6.0\PVProject1710\obj\Debug\net6.0\PVProject1710.AssemblyInfo.cs
+D:\Programming & 3D Design\Visual Studio\2022 .NET 6.0\PVProject1710\obj\Debug\net6.0\PVProject1710.csproj.CoreCompileInputs.cache
+D:\Programming & 3D Design\Visual Studio\2022 .NET 6.0\PVProject1710\obj\Debug\net6.0\PVProject1710.dll
+D:\Programming & 3D Design\Visual Studio\2022 .NET 6.0\PVProject1710\obj\Debug\net6.0\refint\PVProject1710.dll
+D:\Programming & 3D Design\Visual Studio\2022 .NET 6.0\PVProject1710\obj\Debug\net6.0\PVProject1710.pdb
+D:\Programming & 3D Design\Visual Studio\2022 .NET 6.0\PVProject1710\obj\Debug\net6.0\PVProject1710.genruntimeconfig.cache
+D:\Programming & 3D Design\Visual Studio\2022 .NET 6.0\PVProject1710\obj\Debug\net6.0\ref\PVProject1710.dll

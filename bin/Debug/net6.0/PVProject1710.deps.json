@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PVProject1710/1.0.0": {
+        "runtime": {
+          "PVProject1710.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PVProject1710/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
